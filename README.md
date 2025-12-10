@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 I am learning all things tech and buidling skills one step at a time (using the ultimate Computer Science roadmap)
 I build small web apps, CLI tools, and data projects to learn and solve real problems.
 
-- 🔭 Currently working on: [project-name]
-- 🌱 Learning: distributed systems & Rust
+- 🔭 Currently working on: learning [project-name]
+- 🌱 Learning: distributed systems & CS
 - 👯 Open to: collaborating on beginner-friendly OSS
-- 📫 How to reach me: your.email@example.com
 - ⚡ Fun fact: I learn best by building tiny, useful tools
 
 Pinned projects
-- Project A — brief one-line description
-- Project B — brief one-line description
+- Harvard CS50 projects —
+- Free-code-camp projects - 
