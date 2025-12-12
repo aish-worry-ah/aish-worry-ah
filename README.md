@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am learning all things tech and buidling skills one step at a time (using the ultimate Computer Science roadmap)
 I build small web apps, CLI tools, and data projects to learn and solve real problems.
 
-- 🔭 Currently working on: learning [project-name]
+- 🔭 Currently working on: learning Web Development and Machine Learning [project-name]
 - 🌱 Learning: distributed systems & CS
 - 👯 Open to: collaborating on beginner-friendly OSS
 - ⚡ Fun fact: I learn best by building tiny, useful tools
